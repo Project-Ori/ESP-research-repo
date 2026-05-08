@@ -1,0 +1,9 @@
+File: 2026-05-08_PreRegistration-v1.3_ClassSignalSensitivity.pdf
+SHA-256: 2eb62059b302525e22aeeb1d47e05139152cef855d2f51a957d0edd5da3ecd0a
+Generated: May 8, 2026
+Author: Jessica N. Hancock, Equal Standard Project LLC
+Affiliation: Founder, Equal Standard Project LLC, Santa Clara, CA
+Purpose: Pre-registration document v1.3 for Class Signal Sensitivity bias audit study
+Related IP: AEGIS (USPTO Provisional 63/928,524)
+Origin: Motivated by conversation preserved under SHA-256 4fb46f3ddde82b479da931b9c8ea280e0667e7ff0c96ed12dee601254ba231d8
+Verification: Hash verified on Windows PowerShell, May 8, 2026
