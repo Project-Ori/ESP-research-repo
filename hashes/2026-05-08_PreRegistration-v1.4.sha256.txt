@@ -1,0 +1,24 @@
+SHA-256 Hash Record
+===================
+
+Artifact: 2026-05-08_PreRegistration-v1.4_ClassSignalSensitivity.pdf
+Date locked: 2026-05-08
+Description: Pre-Registration v1.4 of "Class Signal Sensitivity in Large
+Language Model Financial Advisory Outputs — A Matched-Pair Audit Across
+Major Systems." Supersedes v1.3 with a dated, disclosed amendment
+incorporated before any data collection. The amendment adds Persona D
+(non-native English prose patterns) to the study scope and introduces
+hypothesis H6 testing the compound effect of class signal and prose
+competence.
+
+SHA-256:
+60f6e27acc1d71c1447df3218f6927783dbebe1ca61a7bc45f4cb166761dfbb4
+
+Prior related artifacts:
+- 2026-05-07_FinancialEquityGate_OriginConversation.pdf
+  SHA-256: 4fb46f3ddde82b479da931b9c8ea280e0667e7ff0c96ed12dee601254ba231d8
+- 2026-05-08_PreRegistration-v1.3_ClassSignalSensitivity.pdf
+  SHA-256: 2eb62059b302525e22aeeb1d47e05139152cef855d2f51a957d0edd5da3ecd0a
+
+Verification: To verify this artifact, compute its SHA-256 hash and
+compare to the hash above. Hashes must match exactly.
